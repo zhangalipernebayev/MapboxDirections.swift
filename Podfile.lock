@@ -8,7 +8,7 @@ PODS:
 DEPENDENCIES:
   - Mapbox-iOS-SDK (~> 3.3)
   - OHHTTPStubs/Swift (~> 5.0)
-  - Polyline (~> 3.3)
+  - Polyline (~> 4.0)
 
 SPEC CHECKSUMS:
   Mapbox-iOS-SDK: b22da0d9703fcfb0a8b592b6a7f6a21264fe44b0
